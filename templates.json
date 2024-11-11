@@ -1,11 +1,11 @@
 [
     {
-        "title": "Ingress - API to EAI Platform",
+        "title": "Ingress - API to Integration Platform",
         "description": "Ingress temmplate from API to EAI Platform, includes a map",
         "preview": "./templates/images/test.png",
         "website": "https://github.com/Fojix",
         "author": "Rob Fox",
-        "source": "https://github.com/Fojix/kadaster-azd-ingress-api-to-eai",
+        "source": "https://github.com/Fojix/kadaster-azd-ingress-api-to-ip",
         "tags": [
             "terraform",
             "logicapp",
@@ -13,12 +13,12 @@
         ]
     },
     {
-        "title": "Ingress - Service Bus to EAI Platform",
-        "description": "Ingress temmplate from Service Bus to EAI Platform, includes a map",
+        "title": "Ingress - Service Bus to Integration Platform",
+        "description": "Ingress temmplate from Service Bus to Integration Platform, includes a map",
         "preview": "./templates/images/test.png",
         "website": "https://github.com/Fojix",
         "author": "Rob Fox",
-        "source": "https://github.com/Fojix/kadaster-azd-ingress-servicebus-to-eai.git",
+        "source": "https://github.com/Fojix/kadaster-azd-ingress-servicebus-to-ip",
         "tags": [
             "terraform",
             "logicapp",
@@ -26,29 +26,29 @@
         ]
     },
     {
-        "title": "Outgress - EAI Platform to API",
-        "description": "Outgress temmplate from EAI Platform to an API, includes a map",
+        "title": "Egress - Integration Platform to API",
+        "description": "Egress temmplate from Integration Platform to an API, includes a map",
         "preview": "./templates/images/test.png",
         "website": "https://github.com/Fojix",
         "author": "Rob Fox",
-        "source": "https://github.com/Fojix/kadaster-azd-outgress-eai-to-api",
+        "source": "https://github.com/Fojix/kadaster-azd-egress-ip-to-api",
         "tags": [
             "terraform",
             "logicapp",
-            "outgress"
+            "egress"
         ]
     },
     {
-        "title": "Outgress - EAI Platform to Service Bus",
-        "description": "Outgress temmplate from EAI Platform to an Azure Service Bus, includes a map",
+        "title": "Egress - Integration Platform to Service Bus",
+        "description": "Egress temmplate from Integration Platform to an Azure Service Bus, includes a map",
         "preview": "./templates/images/test.png",
         "website": "https://github.com/Fojix",
         "author": "Rob Fox",
-        "source": "https://github.com/Fojix/kadaster-azd-outgress-eai-to-servicebus",
+        "source": "https://github.com/Fojix/kadaster-azd-egress-ip-to-servicebus",
         "tags": [
             "terraform",
             "logicapp",
-            "outgress"
+            "egress"
         ]
     }
 ]
