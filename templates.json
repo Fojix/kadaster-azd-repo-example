@@ -24,5 +24,31 @@
             "logicapp",
             "ingress"
         ]
+    },
+    {
+        "title": "Outgress - EAI Platform to API",
+        "description": "Outgress temmplate from EAI Platform to an API, includes a map",
+        "preview": "./templates/images/test.png",
+        "website": "https://github.com/Fojix",
+        "author": "Rob Fox",
+        "source": "https://github.com/Fojix/kadaster-azd-outgress-eai-to-api",
+        "tags": [
+            "terraform",
+            "logicapp",
+            "outgress"
+        ]
+    },
+    {
+        "title": "Outgress - EAI Platform to Service Bus",
+        "description": "Outgress temmplate from EAI Platform to an Azure Service Bus, includes a map",
+        "preview": "./templates/images/test.png",
+        "website": "https://github.com/Fojix",
+        "author": "Rob Fox",
+        "source": "https://github.com/Fojix/kadaster-azd-outgress-eai-to-servicebus",
+        "tags": [
+            "terraform",
+            "logicapp",
+            "outgress"
+        ]
     }
 ]
