@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Ingress - API to EAI Platform",
+        "description": "Ingress temmplate from API to EAI Platform, includes a map",
+        "preview": "./templates/images/test.png",
+        "website": "https://github.com/Fojix",
+        "author": "Rob Fox",
+        "source": "https://github.com/Fojix/kadaster-azd-ingress-api-to-eai",
+        "tags": [
+            "terraform",
+            "logicapp",
+            "ingress"
+        ]
+    },
+    {
+        "title": "Ingress - Service Bus to EAI Platform",
+        "description": "Ingress temmplate from Service Bus to EAI Platform, includes a map",
+        "preview": "./templates/images/test.png",
+        "website": "https://github.com/Fojix",
+        "author": "Rob Fox",
+        "source": "https://github.com/Fojix/kadaster-azd-ingress-servicebus-to-eai.git",
+        "tags": [
+            "terraform",
+            "logicapp",
+            "ingress"
+        ]
+    }
+]
