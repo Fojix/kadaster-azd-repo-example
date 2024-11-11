@@ -1,0 +1,1 @@
+# kadaster-azd-repo-example
